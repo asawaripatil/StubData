@@ -1,11 +1,11 @@
 [
-  {
-    meetingname: 'Dolphin Shipping Service a& Company'
-  },
-  {
-    meetingname: 'Dolphin Shipping Service & '
-  },
-  {
-    meetingname: 'Dolphin Shipping a& Company'
-  }
+    {
+      "meetingname": "Dolphin Shipping Service a& Company"
+    },
+    {
+      "meetingname": "Dolphin Shipping Service & "
+    },
+    {
+      "meetingname": "Dolphin Shipping a& Company"
+    }
 ]
